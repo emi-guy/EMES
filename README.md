@@ -1,3 +1,3 @@
 Electromagnetic Environment Simulator (EMES).
 
-GASH is a project that seeks to simulate Low-Level Swept Current (LLSC) and Low-Level Swept Frequency (LLSF). 
+EMES is a project that, in its current state of development, seeks to simulate Low-Level Swept Current (LLSC) and Low-Level Swept Frequency (LLSF). 
